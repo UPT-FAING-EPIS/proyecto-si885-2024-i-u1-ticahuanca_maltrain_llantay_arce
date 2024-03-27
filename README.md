@@ -1,1 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/4qIAkGT-)
+Misión
+
+Promover el desarrollo integral y sostenible de la región Tacna con una gestión transparente, competitiva y a favor de la identidad cultural.
+
+Visión
+
+Una Tacna con identidad cultural, competitiva, sostenible y ciudadanos felices.
+
+Objetivos
+
+Mejorar la calidad ambiental.
+Garantizar el ejercicio pleno de los derechos humanos y la dignidad de las personas, con inclusión social.
+Brindar servicios de calidad en condiciones equitativas y sostenibles.
+Desarrollar una gestión pública de calidad orientada en el ciudadano.
+Fortalecer el sistema integrado de seguridad ciudadana.
+Mejorar los niveles de competitividad territorial.
+Mejorar y ampliar la infraestructura de soporte para la producción.
+Incrementar la disponibilidad y calidad del recurso hídrico.
+Reducir la vulnerabilidad territorial ante el riesgo de desastres.
