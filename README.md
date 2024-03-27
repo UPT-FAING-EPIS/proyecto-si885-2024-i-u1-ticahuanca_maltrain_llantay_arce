@@ -1,3 +1,5 @@
+![image](https://github.com/UPT-FAING-EPIS/proyecto-si885-2024-i-u1-ticahuanca_maltrain_llantay_arce/assets/102675967/cf343f7b-4dd7-42d9-b30a-6ef07b9f88ed)
+
 ## **Misión:**
 
 Promover el desarrollo integral y sostenible de la región Tacna con una gestión transparente, competitiva y a favor de la identidad cultural.
